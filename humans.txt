@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Danny KR	danny395kr@gmail.com	@defaulttwitterusername
 
 # THANKS
 
