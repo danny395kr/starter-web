@@ -1,2 +1,4 @@
 Some text here
 Lets just keep it at this
+More text for modification of this file
+And to learn about modifying files and such
