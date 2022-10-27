@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 
 This is what I myself added
 And some more modification to check differences
+Even more text for learning automatic merges
