@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanking myself
 
 # TECHNOLOGY COLOPHON
 
